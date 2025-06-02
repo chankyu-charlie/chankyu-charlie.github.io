@@ -1,3 +1,32 @@
+# what to change ck version
+
+1. bundle exec jekyll serve
+
+2. publication
+_bibliography/papers.bib
+assets/pdf -> pdf file
+assets/img/publication_preview -> preview img
+
+3. news
+/news/
+
+4. CV
+assets/pdf/chankyu_han_curriculum_vitae.pdf
+
+4. theme color
+_sass/themes.scss
+
+5. social media
+_data/social.yml
+
+
+
+
+
+
+
+
+
 # Customize
 
 Here we will give you some tips on how to customize the website. One important thing to note is that **ALL** the changes you make should be done on the **main** branch of your repository. The `gh-pages` branch is automatically overwritten every time you make a change to the main branch.
