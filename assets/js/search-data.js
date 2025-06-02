@@ -43,7 +43,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/haha", "_blank");
+          window.open("https://www.linkedin.com/in/chankyu-han-8a1451369", "_blank");
         },
       },{
         id: 'social-scholar',
