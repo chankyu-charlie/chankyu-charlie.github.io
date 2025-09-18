@@ -24,7 +24,7 @@ announcements:
 ---
 
 
-Hi! I am a Ph.D. student at [UW Electrical & Computer Engineering](https://www.ece.uw.edu/), advised by [Prof. Yiyue Luo](https://yyueluo.com/). My research focuses on Human-Computer Interaction with tactile sensors.
+Hi! I am a Ph.D. student at [UW Electrical & Computer Engineering](https://www.ece.uw.edu/), advised by [Prof. Yiyue Luo](https://yyueluo.com/). My research interest lies in tangible Human-Computer Interaction, focusing on multi-modal tactile sensing and feedback.
 
 Before joining UW, I received my Bachelor's and Master's degrees in Mechanical Engineering at [KAIST](https://kaist.ac.kr/).
 
