@@ -29,7 +29,10 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
             },},{id: "news-joining-wearable-intelligence-lab-at-uw-ece-as-a-phd-student",
-          title: 'Joining Wearable Intelligence Lab  at UW ECE as a PhD student! 🔥',
+          title: '🔥 Joining Wearable Intelligence Lab  at UW ECE as a PhD student!',
+          description: "",
+          section: "News",},{id: "news-organizing-a-workshop-at-chi-2026-everyday-wearable-for-personalized-health-and-well-being",
+          title: '🩹 Organizing a workshop at CHI 2026: Everyday Wearable for Personalized Health and...',
           description: "",
           section: "News",},{
         id: 'social-email',
