@@ -34,6 +34,9 @@ ninja.data = [{
           section: "News",},{id: "news-organizing-a-workshop-at-chi-2026-everyday-wearable-for-personalized-health-and-well-being",
           title: '🩹 Organizing a workshop at CHI 2026: Everyday Wearable for Personalized Health and...',
           description: "",
+          section: "News",},{id: "news-magball-is-accepted-to-chi",
+          title: '🧲 MagBall is accepted to CHI.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
