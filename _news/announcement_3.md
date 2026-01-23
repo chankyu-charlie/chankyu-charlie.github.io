@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🧲 MagBall is accepted to [CHI](https://chi2026.acm.org/).
+🧲 [MagBall](https://chankyu-charlie.github.io/assets/pdf/MagBall_CHI26.pdf) is accepted to [CHI](https://chi2026.acm.org/).

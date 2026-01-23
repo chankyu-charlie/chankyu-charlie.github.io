@@ -26,7 +26,7 @@ announcements:
 
 Hi! I am a Ph.D. student at [UW Electrical & Computer Engineering](https://www.ece.uw.edu/), advised by [Prof. Yiyue Luo](https://yyueluo.com/). My research focuses on wearable sensors and actuators integrated with machine learning for applications in healthcare, robotics and human–computer interaction.
 
-Before joining UW, I received my Bachelor's and Master's degrees in Mechanical Engineering at [KAIST](https://kaist.ac.kr/).
+Before joining UW, I received my Bachelor's and Master's degrees in Mechanical Engineering at [KAIST](https://kaist.ac.kr/), where I studied soft tactile sensors.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
