@@ -698,7 +698,6 @@ footer.sticky-bottom {
 
 .publications {
   margin-top: 2rem;
-
   h1 {
     color: var(--global-theme-color);
     font-size: 2rem;
@@ -871,6 +870,18 @@ footer.sticky-bottom {
       border-color: var(--global-highlight-color);
     }
   }
+}
+
+  .publications .title {
+    margin-bottom: 0.5rem;
+  }
+
+  .publications .author {
+    margin-top: 0.2rem;
+    margin-bottom: 0.5rem;
+  }
+.publications .periodical {
+  margin-bottom: 0.35rem;
 }
 
 // Rouge Color Customization
